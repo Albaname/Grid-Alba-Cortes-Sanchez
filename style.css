@@ -35,5 +35,10 @@
 @media (mix-width: 768px) {
   .photo {
     flex-direction: column;
+    display: block;
+  }
+
+  .column {
+    width: 100%;
   }
 }
